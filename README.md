@@ -20,8 +20,11 @@ Project Dark Sky demands tactical decision-making, resource management, and raw 
 One wrong move can cost you everything.
 
 You won't be looting shiny gold weapons off glowing corpses.
+
 You'll be crawling through half-collapsed buildings, scavenging for dirty rounds of ammunition, and praying your suppressor wasn't damaged in that last tumble.
 
 There is no loot score.
+
 You build your skills.
+
 You earn survival.
