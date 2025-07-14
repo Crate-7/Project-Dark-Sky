@@ -16,7 +16,7 @@ Your mission:
 - Extraction of all mission objectives.
 - Recovery of the Unit.
 ---
-Project Dark Sky demands tactical decision-making, resource management, and raw skill.
+Project Dark Sky demands tactical decision-making, resource management, and raw skill.  
 One wrong move can cost you everything.
 
 You won't be looting shiny gold weapons off glowing corpses.  
