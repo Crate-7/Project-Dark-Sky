@@ -2,7 +2,7 @@
 
 Welcome to the official development log of Project Dark Sky. 
 
-GAME SUMMARY
+**GAME SUMMARY**
 
 Project Dark Sky is an immersive tactical survival shooter set in a crumbling metropolis. 
 
