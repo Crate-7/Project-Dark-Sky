@@ -1,6 +1,6 @@
 # Project-Dark-Sky
 
-Welcome to the official development log of Project Dark Sky. 
+_Welcome to the official development log of Project Dark Sky. _
 
 ## **GAME SUMMARY**
 
